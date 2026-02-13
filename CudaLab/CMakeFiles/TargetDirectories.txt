@@ -1,0 +1,3 @@
+C:/Users/Yokud/Desktop/Lab_04/CMakeFiles/matmul.dir
+C:/Users/Yokud/Desktop/Lab_04/CMakeFiles/ALL_BUILD.dir
+C:/Users/Yokud/Desktop/Lab_04/CMakeFiles/ZERO_CHECK.dir
