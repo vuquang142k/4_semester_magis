@@ -1,0 +1,9 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{Введение}{3}{Doc-Start}%
+\contentsline {section}{\numberline {1}Выполнение}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Фрагмент кода}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Описание модели}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Множества состояний}{5}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Граф переходов между состояниями модели}{6}{subsection.1.4}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{7}{figure.caption.1}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{8}{figure.caption.1}%
