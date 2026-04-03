@@ -1,0 +1,6 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{Введение}{3}{Doc-Start}%
+\contentsline {section}{\numberline {1}Выполнение}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Описание протокола TCP}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Описание модели и результаты}{5}{subsection.1.2}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{10}{figure.caption.2}%
